@@ -14,7 +14,13 @@
 	"Die High-Potentials",
 	"Die Rank&File-Troops",
 	"Die Kollegen aus dem Marketing",
-	"Die Leute von R&D"
+	"Die Leute von R&D",
+	"Die Project-Members",
+	"Die Projektpartner",
+	"Die Leute in unserem Core-Team",
+	"Die Project-Leads",
+	"Die Scrum-Master",
+	"Wir alle"
 ]
 
 @part2 = [
@@ -78,7 +84,9 @@
 	"bis EOB",
 	"vor next BD",
 	"auf der aktuellen Direction",
-	"world-class"
+	"world-class",
+	"on-premise",
+	"mit minimaler Abhängigkeit"
 ]
 
 @part4 = [
@@ -179,7 +187,12 @@
 	"das Big Picture",
 	"eine Turnkey-Solution",
 	"das conceptual Lift-off",
-	"die mission-critical Response"
+	"die mission-critical Response",
+	"die digitale Transformation",
+	"das revisionssichere Audit-Log",
+	"die On-Premise-Deployments",
+	"die stabile Multi-Cloud",
+	"den Elevator-Pitch"
 ]
 
 @part5 = [
@@ -199,7 +212,8 @@
 	"rück",
 	"raus",
 	"triple",
-	"right"
+	"right",
+	"über"
 ]
 
 @part6 = [
@@ -269,7 +283,8 @@
 	"monitoren",
 	"forcen",
 	"finden",
-	"stressen"
+	"stressen",
+	"branden"
 ]
 
 @part7 = [
