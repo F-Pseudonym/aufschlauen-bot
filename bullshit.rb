@@ -86,7 +86,11 @@
 	"auf der aktuellen Direction",
 	"world-class",
 	"on-premise",
-	"mit minimaler Abhängigkeit"
+	"mit minimaler Abhängigkeit",
+	"final",
+	"best practice",
+	"best-of-breed",
+	"best-in-class"
 ]
 
 @part4 = [
@@ -192,7 +196,10 @@
 	"das revisionssichere Audit-Log",
 	"die On-Premise-Deployments",
 	"die stabile Multi-Cloud",
-	"den Elevator-Pitch"
+	"den Elevator-Pitch",
+	"die SEO-Optimierung",
+	"den neuen Gold-Standard",
+	"das Regel-Meeting"
 ]
 
 @part5 = [
@@ -213,7 +220,8 @@
 	"raus",
 	"triple",
 	"right",
-	"über"
+	"über",
+	"hoch"
 ]
 
 @part6 = [
@@ -290,6 +298,7 @@
 @part7 = [
 	".", 
 	"!", 
-	"?", 
-	", ja."
+	", ja.",
+	", das wäre ja gelacht.",
+	", da mache ich mir keinen Kummer."
 ]
