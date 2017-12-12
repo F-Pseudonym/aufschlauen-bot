@@ -232,10 +232,10 @@
 	"das Customer Facing"
 	"den Growth",
 	"die Communication",
-	"das A-B Testing",
+	"das A-B-Testing",
 	"die Perspective",
 	"die Target-Audience",
-	"die Front Lines",
+	"die Front-Lines",
 	"die Profitability",
 	"das Engagement",
 	"unsere Legacy-Anwendungen"
