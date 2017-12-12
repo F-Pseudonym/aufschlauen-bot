@@ -20,7 +20,9 @@
 	"Die Leute in unserem Core-Team",
 	"Die Project-Leads",
 	"Die Scrum-Master",
-	"Wir alle"
+	"Wir alle",
+	"Die Global Player",
+	"Die Stakeholder"
 ]
 
 @part2 = [
@@ -90,7 +92,16 @@
 	"final",
 	"best practice",
 	"best-of-breed",
-	"best-in-class"
+	"best-in-class",
+	"wertschöpfend",
+	"kundenorientiert",
+	"ergebnisorientiert",
+	"at the end of the day",
+	"dynamic",
+	"reaktiv",
+	"competitive",
+	"off the shelf",
+	"service oriented"
 ]
 
 @part4 = [
@@ -140,7 +151,7 @@
 	"den No-Brainer",
 	"ein Bio-Break",
 	"mehr Wiggle-Room",
-	"höhere Perfomance",
+	"höhere Performance",
 	"das Wording",
 	"die Skills",
 	"den High-Potential",
@@ -199,7 +210,35 @@
 	"den Elevator-Pitch",
 	"die SEO-Optimierung",
 	"den neuen Gold-Standard",
-	"das Regel-Meeting"
+	"das Regel-Meeting",
+	"den Schwarzen Peter",
+	"das Outplacement",
+	"den Value",
+	"eine Win-Win Situation",
+	"den Support",
+	"das Issue",
+	"die Visionen",
+	"die Brainstorming-Methoden",
+	"die Destination",
+	"die Problematik",
+	"eine Risikoanalyse",
+	"einen Audit",
+	"den Milestone",
+	"die Differentiation",
+	"das E-Commerce Outsourcing",
+	"die Policies",
+	"das Team-Building",
+	"das B2B",
+	"das Customer Facing"
+	"den Growth",
+	"die Communication",
+	"das A-B Testing",
+	"die Perspective",
+	"die Target-Audience",
+	"die Front Lines",
+	"die Profitability",
+	"das Engagement",
+	"unsere Legacy-Anwendungen"
 ]
 
 @part5 = [
@@ -221,7 +260,13 @@
 	"triple",
 	"right",
 	"über",
-	"hoch"
+	"hoch",
+	"over",
+	"under",
+	"out",
+	"in",
+	"quer",
+	"multi"
 ]
 
 @part6 = [
@@ -292,7 +337,12 @@
 	"forcen",
 	"finden",
 	"stressen",
-	"branden"
+	"branden",
+	"kommunizieren",
+	"scoren",
+	"aggregieren",
+	"usen",
+	"pfeifen"
 ]
 
 @part7 = [
