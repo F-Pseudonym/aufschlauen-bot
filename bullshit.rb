@@ -229,7 +229,7 @@
 	"die Policies",
 	"das Team-Building",
 	"das B2B",
-	"das Customer Facing"
+	"das Customer Facing",
 	"den Growth",
 	"die Communication",
 	"das A-B-Testing",
