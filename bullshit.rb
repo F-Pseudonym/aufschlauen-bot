@@ -342,7 +342,8 @@
 	"scoren",
 	"aggregieren",
 	"usen",
-	"pfeifen"
+	"pfeifen",
+	"proben"
 ]
 
 @part7 = [
