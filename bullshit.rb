@@ -101,7 +101,8 @@
 	"reaktiv",
 	"competitive",
 	"off the shelf",
-	"service oriented"
+	"service oriented",
+	"asapst"
 ]
 
 @part4 = [
