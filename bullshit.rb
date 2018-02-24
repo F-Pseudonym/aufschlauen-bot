@@ -22,7 +22,8 @@
 	"Die Scrum-Master",
 	"Wir alle",
 	"Die Global Player",
-	"Die Stakeholder"
+	"Die Stakeholder",
+	"Die Leute von der Cyber-Security"
 ]
 
 @part2 = [
@@ -239,7 +240,10 @@
 	"die Front-Lines",
 	"die Profitability",
 	"das Engagement",
-	"unsere Legacy-Anwendungen"
+	"unsere Legacy-Anwendungen",
+	"den Cyber",
+	"die Cyber-Weapons",
+	"mehr Cyber-Security"
 ]
 
 @part5 = [
@@ -267,7 +271,8 @@
 	"out",
 	"in",
 	"quer",
-	"multi"
+	"multi",
+	"cyber"
 ]
 
 @part6 = [
@@ -344,7 +349,8 @@
 	"aggregieren",
 	"usen",
 	"pfeifen",
-	"proben"
+	"proben",
+	"cybern"
 ]
 
 @part7 = [
