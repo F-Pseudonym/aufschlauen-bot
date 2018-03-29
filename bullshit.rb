@@ -23,7 +23,8 @@
 	"Wir alle",
 	"Die Global Player",
 	"Die Stakeholder",
-	"Die Leute von der #Cyber-Security"
+	"Die Leute von der #Cyber-Security",
+	"Die Mitglieder des #Cyber Security Operation Center"
 ]
 
 @part2 = [
