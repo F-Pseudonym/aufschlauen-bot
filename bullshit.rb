@@ -352,7 +352,8 @@
 	"usen",
 	"pfeifen",
 	"proben",
-	"cybern"
+	"cybern",
+	"schärfen"
 ]
 
 @part7 = [
