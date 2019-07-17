@@ -104,7 +104,10 @@
 	"competitive",
 	"off the shelf",
 	"service oriented",
-	"asapst"
+	"asapst",
+	"im wahrsten Sinne des Wortes",
+	"buchstäblich",
+	"wie gesagt"
 ]
 
 @part4 = [
