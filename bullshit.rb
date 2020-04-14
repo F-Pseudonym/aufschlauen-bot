@@ -107,7 +107,8 @@
 	"asapst",
 	"im wahrsten Sinne des Wortes",
 	"buchstäblich",
-	"wie gesagt"
+	"wie gesagt",
+	"direkt nach einem ersten Durchstich"
 ]
 
 @part4 = [
@@ -356,7 +357,8 @@
 	"pfeifen",
 	"proben",
 	"cybern",
-	"schärfen"
+	"schärfen",
+	"stechen"
 ]
 
 @part7 = [
