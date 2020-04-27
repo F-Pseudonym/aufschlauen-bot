@@ -358,7 +358,8 @@
 	"proben",
 	"cybern",
 	"schärfen",
-	"stechen"
+	"stechen",
+	"googeln"
 ]
 
 @part7 = [
