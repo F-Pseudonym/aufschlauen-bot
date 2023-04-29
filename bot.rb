@@ -1,6 +1,7 @@
 #! /usr/bin/env ruby
 
 require 'twitter'
+require 'mastodon'
 require 'parseconfig'
 require "#{File.dirname(__FILE__)}/bullshit.rb"
 
@@ -17,3 +18,11 @@ client = Twitter::REST::Client.new do |config|
 end
 
 client.update(sentence)
+
+stored_m_config = ParseConfig.new("#{File.dirname(__FILE__)}/mastodon.config")
+
+# Set up Mastodon API client
+m_client = Mastodon::REST::Client.new(base_url: stored_m_config["host"], bearer_token: stored_m_config["access_token"])
+
+# Post the quote to Mastodon
+m_client.create_status(sentence)
